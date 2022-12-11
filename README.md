@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dayno
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django and React.js
+- 🌱 I’m currently learning Typescript and Next.js
 - 💞️ I’m looking to collaborate on many things in the future
 
 <!---
